@@ -5,10 +5,7 @@ Welcome to the SIMON Game Challenge! This project is a digital version of the cl
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 - **Memory Challenge:** The game challenges you to remember and repeat increasingly complex sequences of colors and sounds.
@@ -24,4 +21,6 @@ Welcome to the SIMON Game Challenge! This project is a digital version of the cl
    git clone https://github.com/your-username/SIMON-Game-Challenge.git
    cd SIMON-Game-Challenge
 2. **Open the game in your browser:**
+   open index.html
+
 
